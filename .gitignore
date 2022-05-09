@@ -1,2 +1,7 @@
 venv
 graph.pickle
+Code
+hash_to_int.pickle
+transactions_all.csv
+transactions.txt
+transactions.csv
